@@ -1,0 +1,24 @@
+body {
+   
+    height: auto;
+    width: auto;
+    background-color: rgb(96, 197, 197);
+    text-align: center;
+    padding-top: 5%;
+    font-family: Arial, sans-serif;
+   
+}
+h1{
+    background-color: #bfccd1;
+    color: rgb(238, 23, 77);
+}
+#addTaskButton{
+    border-radius: 10%;
+    color: rgb(6, 24, 183);
+    
+}
+#taskList{
+    color:rgb(10, 6, 252);
+    font-size: large;
+
+}
